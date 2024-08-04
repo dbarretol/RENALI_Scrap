@@ -1,0 +1,5 @@
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=costa+afuera&fieldstosearch=AllFields
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=costa+afuera&type=AllFields&page=2
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=costa+afuera&type=AllFields&page=3
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=costa+afuera&type=AllFields&page=4
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=costa+afuera&type=AllFields&page=5

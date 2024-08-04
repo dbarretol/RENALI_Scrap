@@ -1,0 +1,9 @@
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=offshore&type=AllFields
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=offshore&type=AllFields&page=2
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=offshore&type=AllFields&page=3
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=offshore&type=AllFields&page=4
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=offshore&type=AllFields&page=5
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=offshore&type=AllFields&page=6
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=offshore&type=AllFields&page=7
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=offshore&type=AllFields&page=8
+https://alicia.concytec.gob.pe/vufind/Search/Results?lookfor=offshore&type=AllFields&page=9
