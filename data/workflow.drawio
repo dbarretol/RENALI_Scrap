@@ -50,7 +50,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vKeBIrEPphhN4ZtW6vs6-44" value="&lt;span style=&quot;color: rgb(0, 0, 255); font-weight: 400; text-wrap: nowrap;&quot;&gt;data/RawURLS&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="10" width="300" height="200" as="geometry" />
+          <mxGeometry x="20" y="10" width="300" height="200" as="geometry">
+            <mxRectangle x="20" y="10" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vKeBIrEPphhN4ZtW6vs6-36" value="ALICIA - SL - {costa afuera}.txt" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/8243/8243060.png;fontSize=10;" vertex="1" parent="vKeBIrEPphhN4ZtW6vs6-44">
           <mxGeometry x="50" y="34" width="45" height="45" as="geometry" />
